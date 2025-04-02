@@ -1,10 +1,16 @@
 package main 
 
 import (
-    "github.com/tsyrdev/pokedex/utils/repl"
+    "time"
+
+    "github.com/tsyrdev/pokedex/internal/pokeapi"
 )
 
 
 func main() {
-    repl.Start()
+    pokeClient := pokeapi.NewClient(5 * time.Second)
+    cfg := &config{
+        pokeapiClient: pokeClient,
+    }
+    startRepl(cfg)
 }
