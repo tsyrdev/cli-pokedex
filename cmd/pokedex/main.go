@@ -1,7 +1,7 @@
 package main 
 
 import (
-    "github.com/tsyrdev/pokedex/internal/repl"
+    "github.com/tsyrdev/pokedex/utils/repl"
 )
 
 
