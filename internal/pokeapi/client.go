@@ -20,3 +20,4 @@ func NewClient(timeout, cacheInterval time.Duration) Client {
         },
     }
 }
+
