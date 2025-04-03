@@ -47,4 +47,4 @@ This project idea comes from a Go tutorial on [Boot.dev](https://www.boot.dev/tr
 
 ## License 
 
-This project is licensed under the [GPL License]()
+This project is licensed under the [MIT License](LICENSE)
