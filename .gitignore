@@ -13,3 +13,6 @@
 
 # Log files 
 *.log
+
+# Vi swap files
+*.swp
