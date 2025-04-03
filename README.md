@@ -1,4 +1,4 @@
-# Pokedex: A cli-pokedex that interacts with the Pokeapi
+# Cli-Pokedex: A cli-tool that interacts with the Pokeapi
 
 ## Overview
 
@@ -13,11 +13,13 @@ You can fork the project and add your own extra commands (or change existing one
 ### Installation Steps
 1. Clone the repo
 ```
-git clone https://github.com/tsyrdev/pokedex.git
+git clone https://github.com/tsyrdev/cli-pokedex.git
 cd pokedex
 ```
 2. Build the project 
-`go build -o cliPokedex ./cmd/pokedex/`
+```
+go build -o cliPokedex ./cmd/cli-pokedex/
+```
 
 You're good to go! 
 

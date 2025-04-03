@@ -6,7 +6,7 @@ import (
     "os"
     "bufio"
 
-    "github.com/tsyrdev/pokedex/internal/pokeapi"
+    "github.com/tsyrdev/cli-pokedex/internal/pokeapi"
 )
 
 type config struct {

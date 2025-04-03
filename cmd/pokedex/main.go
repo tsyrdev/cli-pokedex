@@ -3,7 +3,7 @@ package main
 import (
     "time"
 
-    "github.com/tsyrdev/pokedex/internal/pokeapi"
+    "github.com/tsyrdev/cli-pokedex/internal/pokeapi"
 )
 
 
