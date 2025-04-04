@@ -1,5 +1,5 @@
 # Cli-Pokedex: A cli-tool that interacts with the Pokeapi
-
+![Static Badge](https://img.shields.io/badge/License-MIT-red.svg)
 ## Overview
 
 The cli-pokedex tool allows the user to look-up data on different pokemons and pokemon locations, and also has a few game-like features. 
