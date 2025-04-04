@@ -3,8 +3,9 @@
 ## Overview
 
 The cli-pokedex tool allows the user to look-up data on different pokemons and pokemon locations, and also has a few game-like features. 
-It is written in Go due to its simplicity and HTTP package features, which make it extremely easily to use this sort of API. 
-You can fork the project and add your own extra commands (or change existing ones) if you'd like. 
+It is written in Go due to its simplicity, efficiency, and built-in support for handling HTTP requests. Go's concurrency model also ensures smooth and fast execution,
+even when making multiple API calls. Aditionally, Go's lightweight binaries and cross-platform compatibility make it an excellent choice for a CLI-based application,
+enabling fast performance and easy distribution. You can fork the project and add your own custom commands (or change existing ones) as needed.
 
 ## How to Install and Run 
 
